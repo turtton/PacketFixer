@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.turtton.packetfixer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinArgumentTypes",
+    "MixinTestCommand"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
