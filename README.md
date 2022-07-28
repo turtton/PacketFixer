@@ -1,6 +1,6 @@
 # PacketFixer
 
-fix vanilla command argument types and remove test command to to avoid error in proxy server like velocity.
+fix vanilla command argument types and remove test command to avoid error in proxy server like velocity.
 
 # Build
 
